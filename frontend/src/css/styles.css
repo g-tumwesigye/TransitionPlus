@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.feature img {
+  width: 150px;
+  height: 150px;
+}
+
+.jumbotron {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron .container h1,
+.jumbotron .container p {
+  color: white;
+}
+
